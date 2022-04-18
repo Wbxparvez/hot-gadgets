@@ -1,0 +1,36 @@
+.container{
+    margin-bottom:  100px;
+}
+.card{
+    border: none;
+    border-radius: 10px ;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}.card-footer{
+    background-color: white;
+    border-top: none;
+    
+}
+.text-enter{
+    text-align: center;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+#categories{
+    width: 100%;
+}
+.card-text{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px lightgrey ;
+    margin: 10px 1px;
+}
+
